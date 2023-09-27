@@ -15,9 +15,9 @@ public class muhammadasthisetaariyuwana_1201230019 {
                 System.out.println(inputAngka + " adalah Ganjil");
             }
 
-            System.out.println();
             System.out.print("Lagi (Y / N)? : ");
             inputCommand = input.next();
+            System.out.println();
         }while (
                 inputCommand.equalsIgnoreCase("y")
         );

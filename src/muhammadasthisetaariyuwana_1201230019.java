@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class muhammadasthisetaariyuwana_1201230019 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int inputAngka;

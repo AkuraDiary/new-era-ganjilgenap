@@ -15,7 +15,7 @@ public class Main {
                 System.out.println(inputAngka + " adalah Ganjil");
             }
 
-            System.out.println("");
+            System.out.println();
             System.out.print("Lagi (Y / N)? : ");
             inputCommand = input.next();
         }while (
